@@ -6,4 +6,4 @@ Android版：ApplicationInfo.ANDROIDとサーバーのapkversion.txtの中身を
 IOS版：Android版と同じようなのりでApplicationInfo.IOSとiosversion.txtを
 
 
-readme.txtはサーバーのgames/readme.txtを編集する。
+readme.txtはサーバーのgames/readme.txtを編集する
