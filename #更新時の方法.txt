@@ -1,0 +1,9 @@
+WIN版のビルド先はBuild/System内に!!
+Buildフォルダ内にapkやWebGLを入れないようにする!!
+
+WIN版：Build/Systemフォルダに書き出し後にuploader.exeを実行するだけ
+Android版：ApplicationInfo.ANDROIDとサーバーのapkversion.txtの中身を以前とは違う文字(2つとも同じ文字)に変更する。
+IOS版：Android版と同じようなのりでApplicationInfo.IOSとiosversion.txtを
+
+
+readme.txtはサーバーのgames/readme.txtを編集する。

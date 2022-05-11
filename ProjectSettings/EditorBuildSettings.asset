@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SubScene/Logo/Logo.unity
+    guid: dde400aaaf284004d9ec945391325597
+  - enabled: 1
+    path: Assets/SubScene/LogIn/LogIn.unity
+    guid: 51c791cc533ce8e41ae5e9672bb95ce2
+  - enabled: 1
+    path: Assets/SubScene/MobileUpdate.unity
+    guid: b9a97f325b5f3bb4c91f1944c5a6cc8d
+  - enabled: 0
+    path: Assets/SubScene/Load.unity
+    guid: 8fd341b72a2ec73499b76eac70d89d5e
+  - enabled: 1
+    path: Assets/SubScene/Avator.unity
+    guid: f7741def914be404bb3f0be17c6b47f8
+  - enabled: 1
+    path: Assets/CLOSETIME.unity
+    guid: e70cc3a3e4ce24441a452ab250446af3
+  - enabled: 1
+    path: Assets/MainScene 1.unity
+    guid: 4f0e9616d6fb9c04aae55c0dc6b731ca
+  m_configObjects: {}
